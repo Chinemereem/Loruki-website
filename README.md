@@ -1,3 +1,3 @@
 # Loruki-website
 Cloud Hosting Website
-This website was but following Traversy Media tutorials
+This website was built following Traversy Media tutorials
